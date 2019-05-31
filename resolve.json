@@ -1,0 +1,20 @@
+[
+    {
+        "name": "waf-tools",
+        "resolver": "git",
+        "method": "semver",
+        "major": 4,
+        "sources": [
+            "github.com/steinwurf/waf-tools.git"
+        ]
+    },
+    {
+        "name": "cxxopts-source",
+        "resolver": "git",
+        "method": "checkout",
+        "checkout": "bd205738",
+        "sources": [
+            "github.com/jarro2783/cxxopts.git"
+        ]
+    }
+]
