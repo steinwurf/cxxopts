@@ -13,7 +13,6 @@
 
 # Python
 *.pyc
-*.pyd
 
 # Waf files
 waf-*
