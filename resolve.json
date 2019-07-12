@@ -12,7 +12,7 @@
         "name": "cxxopts-source",
         "resolver": "git",
         "method": "checkout",
-        "checkout": "bd205738",
+        "checkout": "3c73d91c",
         "sources": [
             "github.com/jarro2783/cxxopts.git"
         ]
