@@ -8,6 +8,10 @@ Latest
 ------
 * tbd
 
+1.1.0
+-----
+* Minor: Update cxxopts to commit 3c73d91c
+
 1.0.0
 -----
 * Major: Initial release.
