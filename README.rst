@@ -2,6 +2,9 @@
 cxxopts
 =======
 
+.. image:: https://travis-ci.org/steinwurf/cxxopts.svg?branch=master
+    :target: https://travis-ci.org/steinwurf/cxxopts
+    
 This repository contains waf build scripts for https://github.com/jarro2783/cxxopts
 that are necessary for integration with other Steinwurf libraries.
 
